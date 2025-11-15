@@ -1,6 +1,6 @@
 # Cadastro de Usuários e Matérias
 
-Um sistema web legado para gerenciamento de cadastro de usuários e suas matérias, desenvolvido com Java Servlet, JSP e banco de dados H2.
+Um sistema web legado para gerenciamento de cadastro de usuários e suas matérias, desenvolvido com Java Servlet, JSP e banco de dados H2, este é o projeto prjModulo8 mas agora configurado no Maven.
 
 ## 📋 Descrição
 
