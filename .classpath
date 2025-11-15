@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="c:/Users/mathe/.rsp/redhat-community-server-connector/runtimes/installations/tomcat-9.0.41/apache-tomcat-9.0.41/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

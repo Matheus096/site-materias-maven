@@ -1,0 +1,15 @@
+CREATE TABLE USUARIOS(
+id int primary key,
+NOME VARCHAR(90),
+EMAIL VARCHAR(150),
+SENHA VARCHAR(70), 
+DATA VARCHAR(10));
+
+create table materias(
+titulo varchar(50),
+descricao varchar(300),
+id int primary key,
+usuario_id int,
+concluido bool,
+foreign key(usuario_id)references usuarios(id)
+);
